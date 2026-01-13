@@ -71,11 +71,3 @@ project/
 │   └── profile.css
 │
 └── database.db
-
----
-
-##  Structure du projet
-
-```bash
-
-python run.py
